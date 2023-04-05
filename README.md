@@ -1,4 +1,4 @@
-#RSVP IMDB Movies Case Study
+# RSVP IMDB Movies Case Study
 
 Problem Introduction
 
